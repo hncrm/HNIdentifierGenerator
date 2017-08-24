@@ -1,4 +1,4 @@
-# HN Identifier
+# HN Identifier Generator
 A flexible Unique Identifier generator for Dynamics 365 
 
 ### Features
