@@ -17,16 +17,6 @@ Using the Identifier Generator for your custom and out of the box entities is si
 
 #### 1. Configure Identifier settings
 
-Each unique Identifier requires a separate identifier configuration setting. 
-
-To create an identifier configuration setting, open the Identifier entity via **Settings --> HN Extentions --> Identifer** from the Dynamics Custom Sitemap
-
-Sequential | Random | Random Numeric
-----------   ------   --------------
- |  | 
- |  |
-
-
 
 #### 2. Utilise Identifier Generator with your entities
   
