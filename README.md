@@ -1,4 +1,4 @@
-# Dynamics 365 - Identifier Generator
+# Dynamics 365 Unique Identifier Generator
 #### A flexible Unique Identifier generator for Dynamics 365 
 
 ### Features
