@@ -22,5 +22,5 @@ Using the Identifier Generator for your custom and out of the box entities is si
 #### 1. [Configure Identifier settings](https://github.com/hncrm/HNIdentifierGenerator/wiki/Create-Identifier-Config-item)
 
 
-#### 2. [Utilise Identifier Generator with your entities](https://github.com/hncrm/HNIdentifierGenerator/wiki/Utilise-Identifier-config-item)
+#### 2. [Generate Identifier with your entities](https://github.com/hncrm/HNIdentifierGenerator/wiki/Utilise-Identifier-config-item)
   
