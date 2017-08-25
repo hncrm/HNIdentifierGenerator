@@ -1,4 +1,4 @@
-# HN Identifier Generator
+# Dynamics 365 - Identifier Generator
 #### A flexible Unique Identifier generator for Dynamics 365 
 
 ### Features
@@ -15,8 +15,8 @@
 
 Using the Identifier Generator for your custom and out of the box entities is simple.  Simply create a configuration item for the identifier and apply the configuration item against the required attribute in the entity that requires to generate the Identifer.  
 
-#### 1. Configure Identifier settings
+#### 1. [Configure Identifier settings](https://github.com/hncrm/HNIdentifierGenerator/wiki/Create-Identifier-Config-item)
 
 
-#### 2. Utilise Identifier Generator with your entities
+#### 2. [Utilise Identifier Generator with your entities](https://github.com/hncrm/HNIdentifierGenerator/wiki/Utilise-Identifier-config-item)
   
