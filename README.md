@@ -11,6 +11,10 @@
 * Supports client-side generation
 * Supports custom and out of the box entities
 
+### Download
+
+#### [Proceed to Releases area to Download](https://github.com/hncrm/HNIdentifierGenerator/releases)
+
 ### Getting Started
 
 Using the Identifier Generator for your custom and out of the box entities is simple.  Simply create a configuration item for the identifier and apply the configuration item against the required attribute in the entity that requires to generate the Identifer.  
